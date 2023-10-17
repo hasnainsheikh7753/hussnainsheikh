@@ -1,0 +1,19 @@
+.timer {
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  .time {
+    font-family: monospace;
+  }
+  
+  .controls {
+    margin-top: 10px;
+  }
+  
+  input, button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
